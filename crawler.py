@@ -1,8 +1,11 @@
-### J'ai tout fait en Notebook initialement (voir le fichier notebook), j'ai dû tout mettre au sein d'un module "crawler.py"
-### J'ai encapsulé toutes les fonctions comme des méthodes de la classe Crawler
+### Youcef Boulfrad, Master STD
 
+### J'ai tout fait en Notebook initialement, j'ai dû tout mettre au sein d'un module "crawler.py"
 
-## Youcef Boulfrad, Master STD
+### J'ai laissé le fichier notebook dans le dossier, si vous souhaitez le regarder aussi
+
+### Ici, j'ai encapsulé toutes les fonctions comme des méthodes de la classe Crawler
+
 
 # Configuration initiale
 
